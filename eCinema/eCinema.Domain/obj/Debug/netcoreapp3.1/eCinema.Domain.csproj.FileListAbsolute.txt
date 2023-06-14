@@ -1,0 +1,10 @@
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\bin\Debug\netcoreapp3.1\eCinema.Domain.deps.json
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\bin\Debug\netcoreapp3.1\eCinema.Domain.dll
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\bin\Debug\netcoreapp3.1\eCinema.Domain.pdb
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\obj\Debug\netcoreapp3.1\eCinema.Domain.csproj.AssemblyReference.cache
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\obj\Debug\netcoreapp3.1\eCinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\obj\Debug\netcoreapp3.1\eCinema.Domain.AssemblyInfoInputs.cache
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\obj\Debug\netcoreapp3.1\eCinema.Domain.AssemblyInfo.cs
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\obj\Debug\netcoreapp3.1\eCinema.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\obj\Debug\netcoreapp3.1\eCinema.Domain.dll
+C:\Users\nenad\source\repos\eCinema\eCinema.Domain\obj\Debug\netcoreapp3.1\eCinema.Domain.pdb

@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model eCinemaAdmin.Models.Order
+
+<div class="container">
+   
+    <div class="m-2">
+        <a class="btn btn-light" >Order for: @Model.User.UserName</a>
+
+    </div>
+
+    @for (int i = 0; i < Model.Tickets.Count; i++)
+    {
+        var item = Model.Tickets.ElementAt(i).SelectedTicket;
+
+        if (i % 3 == 0)
+        {
+            @:<div class="row">
+            }
+
+
+            <div class="col-md-3 m-4">
+                <div class="card" style="width: 18rem; height:35rem;">
+                    <img class="card-img-top" src="@item.TicketImage" style="height:50%;" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.TicketName</h5>
+                        <p class="card-text">Genre: @item.TicketGenre</p>
+                        <p class="card-text">Date: @item.TicketDate</p>
+                        <p class="card-text">Price: @item.TicketPrice</p>
+                        <p class="card-text"></p>  
+                    </div>
+                </div>
+            </div>
+
+            if (i % 3 == 2)
+            {
+            @:</div>
+        }
+
+    }
+</div>

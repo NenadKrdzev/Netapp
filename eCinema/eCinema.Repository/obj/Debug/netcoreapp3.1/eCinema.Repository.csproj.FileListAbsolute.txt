@@ -1,0 +1,13 @@
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\bin\Debug\netcoreapp3.1\eCinema.Repository.deps.json
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\bin\Debug\netcoreapp3.1\eCinema.Repository.dll
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\bin\Debug\netcoreapp3.1\eCinema.Repository.pdb
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\bin\Debug\netcoreapp3.1\eCinema.Domain.dll
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\bin\Debug\netcoreapp3.1\eCinema.Domain.pdb
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\obj\Debug\netcoreapp3.1\eCinema.Repository.csproj.AssemblyReference.cache
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\obj\Debug\netcoreapp3.1\eCinema.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\obj\Debug\netcoreapp3.1\eCinema.Repository.AssemblyInfoInputs.cache
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\obj\Debug\netcoreapp3.1\eCinema.Repository.AssemblyInfo.cs
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\obj\Debug\netcoreapp3.1\eCinema.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\obj\Debug\netcoreapp3.1\eCinema.Repository.csproj.CopyComplete
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\obj\Debug\netcoreapp3.1\eCinema.Repository.dll
+C:\Users\nenad\source\repos\eCinema\eCinema.Repository\obj\Debug\netcoreapp3.1\eCinema.Repository.pdb
