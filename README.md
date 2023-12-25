@@ -1,2 +1,2 @@
 # Netapp
-This is a cinema app made in C# .NET
+This is a website I made for my Integrated Systems class.
